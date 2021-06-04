@@ -1,0 +1,7 @@
+{
+  "name": "porket",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
